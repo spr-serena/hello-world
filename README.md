@@ -1,3 +1,3 @@
 # hello-world
 my first repository!
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+I want to learn how to use this website for my future programming study!
